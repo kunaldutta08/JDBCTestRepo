@@ -1,5 +1,4 @@
 #!/bin/bash  
 git add .  
-read -p "[Script] Auto update Neptune egress ip" desc  
-git commit -m "$desc"  
+git commit -m "[Script] Auto update Neptune egress ip"  
 git push origin master
